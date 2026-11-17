@@ -1,7 +1,7 @@
 # Java Programming Assignment 1 — Campus Smart-Parking System
 
-**Student Name:** Doma Saketh  
-**Register Number:** 192525018  
+**Student Name:** THOTA MURARI  
+**Register Number:** 192373016  
 **Course:** Java Programming  
 **Institution:** SIMATS Engineering
 
